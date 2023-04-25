@@ -5,12 +5,12 @@
 
 ## My family
 
-![MyFamily](fam.jpg=200x300 "My Family")
+![MyFamily](fam.jpg =100x100 "My Family")
 ### I am a wife, mother, and student
 
 >I have been married for 15 years, I have 3 teenagers one girl and two boys.
 
-![fa-graduation-cap](graduation-cap-solid.svg=200x300)
+![fa-graduation-cap](graduation-cap-solid.svg =50x50)
 >I will be graduating with my Bachlors in Software development in May 2023
 
 <!--
