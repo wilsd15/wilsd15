@@ -5,12 +5,12 @@
 
 ## My family
 
-![MyFamily](fam.jpg =100x100"My Family")
+<img src="fam.jpg" width="100" height="100">
 ### I am a wife, mother, and student
 
 >I have been married for 15 years, I have 3 teenagers one girl and two boys.
 
-![fa-graduation-cap](graduation-cap-solid.svg =50x50)
+!<img src="graduation-cap-solid.svg" width="50" height="50">
 >I will be graduating with my Bachlors in Software development in May 2023
 
 <!--
